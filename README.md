@@ -21,7 +21,8 @@ Wetter, Gesundheit, Freizeit) mit Vokabeln beider Richtungen,
 Beispielsätzen, Grammatik-Schwerpunkten, kleinen Übungen und Lösungen –
 plus Grammatik-Referenz, Lösungsverzeichnis und Wörterverzeichnis.
 
-👉 **[Inhaltsverzeichnis / Index](de-en/index.md)** · PDF: `de-en/buch_de_en.pdf`
+📄 **PDF direkt herunterladen:** [`Buch_Deutsch-Englisch.pdf`](Buch_Deutsch-Englisch.pdf) (61 Seiten, A4)
+👉 **[Inhaltsverzeichnis / Index](de-en/index.md)** · Quellen und Build-Skript in `de-en/` (PDF: `de-en/buch_de_en.pdf`)
 
 ## Los geht's
 
